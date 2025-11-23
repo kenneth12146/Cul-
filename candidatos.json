@@ -1,0 +1,471 @@
+{
+  "candidatos": [
+    {
+      "id": 1,
+      "nombre": "Carlos Andrés",
+      "apellido": "Martínez López",
+      "nombreCompleto": "Carlos Andrés Martínez López",
+      "programa": "representante_estudiantil",
+      "nombrePrograma": "Representante Estudiantil",
+      "numeroLista": 1,
+      "foto": "https://ui-avatars.com/api/?name=Carlos+Martinez&size=400&background=1B4F72&color=fff&bold=true",
+      "facultad": "Ingeniería de Sistemas y Computación",
+      "semestre": "8vo Semestre",
+      "slogan": "¡Juntos construimos un mejor campus!",
+      "propuestaResumida": "Mejorar la infraestructura tecnológica, crear más espacios de estudio y fortalecer el transporte universitario.",
+      "propuestaCompleta": "Mi propuesta se enfoca en tres pilares fundamentales: 1) Modernización de la infraestructura tecnológica con WiFi de alta velocidad en todo el campus. 2) Creación de nuevos espacios de estudio 24/7 con acceso a recursos digitales. 3) Implementación de un sistema de transporte universitario eficiente que conecte todas las sedes. Además, promoveré programas de bienestar estudiantil, becas académicas y espacios de recreación.",
+      "email": "carlos.martinez@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "carlosmartinez.cul",
+        "instagram": "@carlos_representa",
+        "twitter": "@carlosmarCUL"
+      },
+      "votosIniciales": 156
+    },
+    {
+      "id": 2,
+      "nombre": "María José",
+      "apellido": "Rodríguez Pérez",
+      "nombreCompleto": "María José Rodríguez Pérez",
+      "programa": "representante_estudiantil",
+      "nombrePrograma": "Representante Estudiantil",
+      "numeroLista": 2,
+      "foto": "https://ui-avatars.com/api/?name=Maria+Rodriguez&size=400&background=F39C12&color=fff&bold=true",
+      "facultad": "Contaduría Pública",
+      "semestre": "7mo Semestre",
+      "slogan": "Tu voz, nuestra fuerza",
+      "propuestaResumida": "Crear programas de apoyo financiero, mejorar la comunicación estudiante-directivas y fortalecer el emprendimiento.",
+      "propuestaCompleta": "Mi visión es ser la voz de todos los estudiantes ante las directivas. Propongo: 1) Programas de apoyo financiero y convenios de pago flexibles para estudiantes de bajos recursos. 2) Mesa permanente de diálogo entre estudiantes y directivas. 3) Incubadora de emprendimiento estudiantil con asesoría gratuita. 4) Eventos culturales y deportivos mensuales. 5) Plataforma digital para denuncias y sugerencias anónimas.",
+      "email": "maria.rodriguez@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "mariajose.cul",
+        "instagram": "@majo_representa",
+        "twitter": "@majorodCUL"
+      },
+      "votosIniciales": 143
+    },
+    {
+      "id": 3,
+      "nombre": "Diego Fernando",
+      "apellido": "Gómez Castro",
+      "nombreCompleto": "Diego Fernando Gómez Castro",
+      "programa": "representante_estudiantil",
+      "nombrePrograma": "Representante Estudiantil",
+      "numeroLista": 3,
+      "foto": "https://ui-avatars.com/api/?name=Diego+Gomez&size=400&background=2C3E50&color=fff&bold=true",
+      "facultad": "Administración Financiera",
+      "semestre": "9no Semestre",
+      "slogan": "Liderazgo con compromiso",
+      "propuestaResumida": "Transparencia en el uso de recursos, mayor participación estudiantil y programas de salud mental.",
+      "propuestaCompleta": "Como representante estudiantil me comprometo a: 1) Gestionar de forma transparente los recursos estudiantiles con informes mensuales públicos. 2) Implementar un sistema de votación digital para todas las decisiones importantes. 3) Crear un centro de atención psicológica gratuito para estudiantes. 4) Negociar descuentos en transporte, alimentación y libros. 5) Promover la investigación estudiantil con fondos concursables.",
+      "email": "diego.gomez@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "diegofernando.cul",
+        "instagram": "@diego_lidera",
+        "twitter": "@diegogomCUL"
+      },
+      "votosIniciales": 128
+    },
+    {
+      "id": 10,
+      "nombre": "Valentina",
+      "apellido": "Morales Díaz",
+      "nombreCompleto": "Valentina Morales Díaz",
+      "programa": "representante_estudiantil",
+      "nombrePrograma": "Representante Estudiantil",
+      "numeroLista": 4,
+      "foto": "https://ui-avatars.com/api/?name=Valentina+Morales&size=400&background=E67E22&color=fff&bold=true",
+      "facultad": "Licenciatura en Pedagogía Infantil",
+      "semestre": "6to Semestre",
+      "slogan": "Educación inclusiva para todos",
+      "propuestaResumida": "Inclusión estudiantil, accesibilidad universal y apoyo a estudiantes con necesidades especiales.",
+      "propuestaCompleta": "Mi propuesta se centra en la inclusión: 1) Adecuar instalaciones para estudiantes con discapacidad. 2) Programas de tutorías gratuitas para estudiantes con bajo rendimiento. 3) Becas para estudiantes vulnerables. 4) Talleres de desarrollo personal y habilidades blandas. 5) Red de apoyo entre estudiantes (mentorías peer to peer).",
+      "email": "valentina.morales@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "valentinamorales.cul",
+        "instagram": "@vale_inclusiva",
+        "twitter": "@vmoralesCUL"
+      },
+      "votosIniciales": 135
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Patricia",
+      "apellido": "Silva Mendoza",
+      "nombreCompleto": "Ana Patricia Silva Mendoza",
+      "programa": "representante_docentes",
+      "nombrePrograma": "Representante Docentes",
+      "numeroLista": 1,
+      "foto": "https://ui-avatars.com/api/?name=Ana+Silva&size=400&background=27AE60&color=fff&bold=true",
+      "facultad": "Licenciatura en Pedagogía Infantil",
+      "semestre": "Docente - 12 años experiencia",
+      "slogan": "Experiencia al servicio de la educación",
+      "propuestaResumida": "Mejorar condiciones laborales docentes, capacitación continua y modernización pedagógica.",
+      "propuestaCompleta": "Mi trayectoria de 12 años me ha enseñado las verdaderas necesidades del cuerpo docente. Propongo: 1) Negociar mejoras salariales y prestacionales justas. 2) Programa permanente de capacitación en nuevas metodologías de enseñanza. 3) Dotación de herramientas tecnológicas para todos los docentes. 4) Reducción de carga administrativa para enfocarnos en la enseñanza. 5) Reconocimiento a la excelencia docente con incentivos.",
+      "email": "ana.silva@docentes.cul.edu.co",
+      "redes": {
+        "facebook": "anapatricia.docente",
+        "instagram": "@profana_cul",
+        "twitter": "@anasilvaCUL"
+      },
+      "votosIniciales": 89
+    },
+    {
+      "id": 5,
+      "nombre": "Roberto Carlos",
+      "apellido": "Mendoza Torres",
+      "nombreCompleto": "Roberto Carlos Mendoza Torres",
+      "programa": "representante_docentes",
+      "nombrePrograma": "Representante Docentes",
+      "numeroLista": 2,
+      "foto": "https://ui-avatars.com/api/?name=Roberto+Mendoza&size=400&background=8E44AD&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "Docente - 8 años experiencia",
+      "slogan": "Innovación y calidad educativa",
+      "propuestaResumida": "Investigación docente, actualización curricular y mejores espacios de trabajo.",
+      "propuestaCompleta": "Como ingeniero y docente, propongo: 1) Fondos para investigación docente con publicaciones internacionales. 2) Actualización de currículos cada 2 años según tendencias del mercado. 3) Adecuación de oficinas y espacios de trabajo docente. 4) Plataforma digital unificada para gestión académica. 5) Alianzas con empresas para prácticas docentes en industria.",
+      "email": "roberto.mendoza@docentes.cul.edu.co",
+      "redes": {
+        "facebook": "robertocarlos.docente",
+        "instagram": "@profroberto_cul",
+        "twitter": "@rmendozaCUL"
+      },
+      "votosIniciales": 76
+    },
+    {
+      "id": 11,
+      "nombre": "Patricia Elena",
+      "apellido": "Vargas Rueda",
+      "nombreCompleto": "Patricia Elena Vargas Rueda",
+      "programa": "representante_docentes",
+      "nombrePrograma": "Representante Docentes",
+      "numeroLista": 3,
+      "foto": "https://ui-avatars.com/api/?name=Patricia+Vargas&size=400&background=16A085&color=fff&bold=true",
+      "facultad": "Contaduría Pública",
+      "semestre": "Docente - 15 años experiencia",
+      "slogan": "Bienestar docente, calidad educativa",
+      "propuestaResumida": "Salud ocupacional, equilibrio vida-trabajo y reconocimiento laboral.",
+      "propuestaCompleta": "Mi enfoque es el bienestar integral: 1) Programas de salud mental y prevención del burnout. 2) Flexibilidad horaria para docentes con cargas familiares. 3) Seguro médico complementario para docentes y familia. 4) Espacios de descanso y recreación en campus. 5) Sistema de bonificaciones por desempeño excepcional.",
+      "email": "patricia.vargas@docentes.cul.edu.co",
+      "redes": {
+        "facebook": "patriciaelena.docente",
+        "instagram": "@profepatricia_cul",
+        "twitter": "@pvargasCUL"
+      },
+      "votosIniciales": 82
+    },
+    {
+      "id": 12,
+      "nombre": "Miguel Ángel",
+      "apellido": "Suárez Pérez",
+      "nombreCompleto": "Miguel Ángel Suárez Pérez",
+      "programa": "representante_docentes",
+      "nombrePrograma": "Representante Docentes",
+      "numeroLista": 4,
+      "foto": "https://ui-avatars.com/api/?name=Miguel+Suarez&size=400&background=C0392B&color=fff&bold=true",
+      "facultad": "Ingeniería de Sistemas y Computación",
+      "semestre": "Docente - 10 años experiencia",
+      "slogan": "Transformación digital educativa",
+      "propuestaResumida": "Digitalización de procesos, plataformas modernas y capacitación tecnológica.",
+      "propuestaCompleta": "Propuesta tech-friendly: 1) Implementar Learning Management System (LMS) moderno. 2) Capacitación docente en herramientas digitales (IA, VR, AR). 3) Automatización de procesos administrativos. 4) Equipos tecnológicos de última generación para cada docente. 5) Biblioteca digital con acceso a bases de datos internacionales.",
+      "email": "miguel.suarez@docentes.cul.edu.co",
+      "redes": {
+        "facebook": "miguelangel.docente",
+        "instagram": "@profmiguel_tech",
+        "twitter": "@msuarezCUL"
+      },
+      "votosIniciales": 94
+    },
+    {
+      "id": 6,
+      "nombre": "Laura Valentina",
+      "apellido": "Ortiz Ramírez",
+      "nombreCompleto": "Laura Valentina Ortiz Ramírez",
+      "programa": "representante_egresados",
+      "nombrePrograma": "Representante Egresados",
+      "numeroLista": 1,
+      "foto": "https://ui-avatars.com/api/?name=Laura+Ortiz&size=400&background=E74C3C&color=fff&bold=true",
+      "facultad": "Contaduría Pública",
+      "semestre": "Egresada 2020 - CEO Startup",
+      "slogan": "Conectando pasado, presente y futuro",
+      "propuestaResumida": "Red de egresados, bolsa de empleo y mentoría para estudiantes.",
+      "propuestaCompleta": "Como egresada exitosa quiero retribuir a mi universidad: 1) Red profesional de egresados con eventos de networking trimestrales. 2) Bolsa de empleo exclusiva con ofertas de empresas aliadas. 3) Programa de mentoría donde egresados guían a estudiantes próximos a graduarse. 4) Convenios de descuentos en posgrados y especializaciones. 5) Reconocimiento anual al egresado destacado.",
+      "email": "laura.ortiz@egresados.cul.edu.co",
+      "redes": {
+        "facebook": "lauravalentina.egresada",
+        "instagram": "@laura_cul_alumni",
+        "twitter": "@lortizCUL"
+      },
+      "votosIniciales": 102
+    },
+    {
+      "id": 13,
+      "nombre": "Camilo Andrés",
+      "apellido": "Rojas Martínez",
+      "nombreCompleto": "Camilo Andrés Rojas Martínez",
+      "programa": "representante_egresados",
+      "nombrePrograma": "Representante Egresados",
+      "numeroLista": 2,
+      "foto": "https://ui-avatars.com/api/?name=Camilo+Rojas&size=400&background=2980B9&color=fff&bold=true",
+      "facultad": "Administración Financiera",
+      "semestre": "Egresado 2018 - Gerente Bancario",
+      "slogan": "Oportunidades para todos los egresados",
+      "propuestaResumida": "Empleabilidad, actualización profesional y vínculos con el sector empresarial.",
+      "propuestaCompleta": "Con mi experiencia en banca propongo: 1) Alianzas con bancos y entidades financieras para empleos directos. 2) Cursos de actualización gratuitos para egresados. 3) Plataforma digital de empleabilidad exclusiva. 4) Certificaciones profesionales con descuentos. 5) Eventos de actualización normativa y tributaria.",
+      "email": "camilo.rojas@egresados.cul.edu.co",
+      "redes": {
+        "facebook": "camiloandres.egresado",
+        "instagram": "@camilo_alumni",
+        "twitter": "@crojasCUL"
+      },
+      "votosIniciales": 87
+    },
+    {
+      "id": 14,
+      "nombre": "Jennifer Carolina",
+      "apellido": "Hernández López",
+      "nombreCompleto": "Jennifer Carolina Hernández López",
+      "programa": "representante_egresados",
+      "nombrePrograma": "Representante Egresados",
+      "numeroLista": 3,
+      "foto": "https://ui-avatars.com/api/?name=Jennifer+Hernandez&size=400&background=D35400&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "Egresada 2019 - Directora Operaciones",
+      "slogan": "Egresados conectados, oportunidades multiplicadas",
+      "propuestaResumida": "Networking internacional, emprendimiento y desarrollo profesional continuo.",
+      "propuestaCompleta": "Visión global para egresados: 1) Red internacional de egresados en diferentes países. 2) Aceleración de startups fundadas por egresados. 3) Programa de intercambio profesional internacional. 4) Base de datos de egresados por sector laboral. 5) Conferencias con egresados destacados como speakers.",
+      "email": "jennifer.hernandez@egresados.cul.edu.co",
+      "redes": {
+        "facebook": "jennifercarolina.egresada",
+        "instagram": "@jenn_alumni_cul",
+        "twitter": "@jhernandezCUL"
+      },
+      "votosIniciales": 96
+    },
+    {
+      "id": 15,
+      "nombre": "Ricardo Javier",
+      "apellido": "Castillo Mora",
+      "nombreCompleto": "Ricardo Javier Castillo Mora",
+      "programa": "representante_egresados",
+      "nombrePrograma": "Representante Egresados",
+      "numeroLista": 4,
+      "foto": "https://ui-avatars.com/api/?name=Ricardo+Castillo&size=400&background=7D3C98&color=fff&bold=true",
+      "facultad": "Ingeniería de Sistemas y Computación",
+      "semestre": "Egresado 2017 - Tech Lead",
+      "slogan": "Innovación y tecnología para egresados",
+      "propuestaResumida": "Plataforma tech, comunidad digital y oportunidades en tecnología.",
+      "propuestaCompleta": "Propuesta digital: 1) App móvil exclusiva de egresados CUL. 2) Comunidad en Slack/Discord para networking. 3) Hackathons y challenges tech entre egresados. 4) Portal de freelancing para egresados tech. 5) Certificaciones tech gratuitas (AWS, Google Cloud, etc.).",
+      "email": "ricardo.castillo@egresados.cul.edu.co",
+      "redes": {
+        "facebook": "ricardojavier.egresado",
+        "instagram": "@ricardo_tech_alumni",
+        "twitter": "@rcastilloCUL"
+      },
+      "votosIniciales": 110
+    },
+    {
+      "id": 7,
+      "nombre": "Dr. Javier Enrique",
+      "apellido": "Sánchez Villamil",
+      "nombreCompleto": "Dr. Javier Enrique Sánchez Villamil",
+      "programa": "decano_ingenieria",
+      "nombrePrograma": "Decano de Ingeniería Industrial",
+      "numeroLista": 1,
+      "foto": "https://ui-avatars.com/api/?name=Javier+Sanchez&size=400&background=1B4F72&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "PhD - 20 años experiencia",
+      "slogan": "Excelencia académica e innovación",
+      "propuestaResumida": "Acreditación internacional, modernización de laboratorios y alianzas estratégicas.",
+      "propuestaCompleta": "Mi experiencia de 20 años y PhD en Ingeniería me permiten ofrecer: 1) Acreditación internacional de la facultad (ABET). 2) Modernización completa de laboratorios con tecnología 4.0. 3) Alianzas con empresas líderes para prácticas profesionales. 4) Incremento en investigación con publicaciones indexadas. 5) Programa de intercambio internacional. 6) Bolsa de trabajo especializada en ingeniería.",
+      "email": "javier.sanchez@cul.edu.co",
+      "redes": {
+        "facebook": "dr.javiersanchez",
+        "instagram": "@drjaviercul",
+        "twitter": "@drsanchezCUL"
+      },
+      "votosIniciales": 134
+    },
+    {
+      "id": 16,
+      "nombre": "Dra. Claudia Marcela",
+      "apellido": "Torres Reyes",
+      "nombreCompleto": "Dra. Claudia Marcela Torres Reyes",
+      "programa": "decano_ingenieria",
+      "nombrePrograma": "Decano de Ingeniería Industrial",
+      "numeroLista": 2,
+      "foto": "https://ui-avatars.com/api/?name=Claudia+Torres&size=400&background=17A589&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "PhD - 18 años experiencia",
+      "slogan": "Sostenibilidad e industria 4.0",
+      "propuestaResumida": "Ingeniería verde, automatización y responsabilidad social empresarial.",
+      "propuestaCompleta": "Visión sostenible: 1) Incorporar sostenibilidad en todo el currículo. 2) Laboratorio de energías renovables. 3) Proyectos con impacto social comunitario. 4) Certificación en Lean Manufacturing y Six Sigma. 5) Centro de investigación en Industria 4.0. 6) Alianzas con sector público para proyectos.",
+      "email": "claudia.torres@cul.edu.co",
+      "redes": {
+        "facebook": "dra.claudiatorres",
+        "instagram": "@draclaudiacul",
+        "twitter": "@ctorresCUL"
+      },
+      "votosIniciales": 121
+    },
+    {
+      "id": 17,
+      "nombre": "Ing. Fernando José",
+      "apellido": "Ramírez Soto",
+      "nombreCompleto": "Ing. Fernando José Ramírez Soto",
+      "programa": "decano_ingenieria",
+      "nombrePrograma": "Decano de Ingeniería Industrial",
+      "numeroLista": 3,
+      "foto": "https://ui-avatars.com/api/?name=Fernando+Ramirez&size=400&background=8B4513&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "MSc - 16 años experiencia",
+      "slogan": "Ingeniería con visión empresarial",
+      "propuestaResumida": "Emprendimiento industrial, prácticas empresariales y doble titulación.",
+      "propuestaCompleta": "Enfoque empresarial: 1) Incubadora de empresas industriales dentro de la facultad. 2) Prácticas profesionales remuneradas garantizadas. 3) Convenio de doble titulación con universidades extranjeras. 4) Consultorio empresarial estudiantil. 5) Ferias industriales semestrales. 6) Pasantías internacionales.",
+      "email": "fernando.ramirez@cul.edu.co",
+      "redes": {
+        "facebook": "ing.fernandoramirez",
+        "instagram": "@ingfernandocul",
+        "twitter": "@framirezCUL"
+      },
+      "votosIniciales": 108
+    },
+    {
+      "id": 18,
+      "nombre": "Dr. Alberto Luis",
+      "apellido": "Mendoza García",
+      "nombreCompleto": "Dr. Alberto Luis Mendoza García",
+      "programa": "decano_ingenieria",
+      "nombrePrograma": "Decano de Ingeniería Industrial",
+      "numeroLista": 4,
+      "foto": "https://ui-avatars.com/api/?name=Alberto+Mendoza&size=400&background=34495E&color=fff&bold=true",
+      "facultad": "Ingeniería Industrial",
+      "semestre": "PhD - 22 años experiencia",
+      "slogan": "Investigación de clase mundial",
+      "propuestaResumida": "Investigación aplicada, publicaciones científicas y proyectos financiados.",
+      "propuestaCompleta": "Prioridad investigativa: 1) Triplicar publicaciones en revistas indexadas. 2) Fondos internacionales para investigación (Colciencias, H2020). 3) Grupos de investigación categoría A. 4) Doctorado propio en Ingeniería Industrial. 5) Patentes y propiedad intelectual. 6) Spin-offs universitarias.",
+      "email": "alberto.mendoza@cul.edu.co",
+      "redes": {
+        "facebook": "dr.albertomendoza",
+        "instagram": "@dralbertocul",
+        "twitter": "@amendozaCUL"
+      },
+      "votosIniciales": 115
+    },
+    {
+      "id": 8,
+      "nombre": "Sofía Alejandra",
+      "apellido": "Herrera Díaz",
+      "nombreCompleto": "Sofía Alejandra Herrera Díaz",
+      "programa": "consejo_estudiantil",
+      "nombrePrograma": "Consejo Estudiantil",
+      "numeroLista": 1,
+      "foto": "https://ui-avatars.com/api/?name=Sofia+Herrera&size=400&background=F39C12&color=fff&bold=true",
+      "facultad": "Licenciatura en Educación Física",
+      "semestre": "6to Semestre",
+      "slogan": "Participación activa, cambio real",
+      "propuestaResumida": "Eventos deportivos y culturales, comunicación efectiva y representación estudiantil.",
+      "propuestaCompleta": "Como miembro del consejo estudiantil me enfocaré en: 1) Organizar torneos deportivos interuniversitarios mensuales. 2) Festivales culturales con participación de todos los programas. 3) Canal de comunicación directo con estudiantes vía redes sociales. 4) Defensa de los derechos estudiantiles ante cualquier irregularidad. 5) Gestión de espacios recreativos y zonas verdes.",
+      "email": "sofia.herrera@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "sofiaalejandra.consejo",
+        "instagram": "@sofia_consejo",
+        "twitter": "@sherreraCUL"
+      },
+      "votosIniciales": 118
+    },
+    {
+      "id": 9,
+      "nombre": "Andrés Felipe",
+      "apellido": "Vargas Ruiz",
+      "nombreCompleto": "Andrés Felipe Vargas Ruiz",
+      "programa": "consejo_estudiantil",
+      "nombrePrograma": "Consejo Estudiantil",
+      "numeroLista": 2,
+      "foto": "https://ui-avatars.com/api/?name=Andres+Vargas&size=400&background=3498DB&color=fff&bold=true",
+      "facultad": "Administración Integral de Riesgos",
+      "semestre": "7mo Semestre",
+      "slogan": "Gestión responsable, futuro seguro",
+      "propuestaResumida": "Transparencia financiera, proyectos sostenibles y participación democrática.",
+      "propuestaCompleta": "Mi formación en riesgos me permite proponer: 1) Auditorías transparentes de los recursos del consejo estudiantil. 2) Proyectos de sostenibilidad ambiental (reciclaje, energías limpias). 3) Consultas populares para decisiones importantes del consejo. 4) Fondo de emergencias para estudiantes en situación crítica. 5) Alianzas con ONG para voluntariado estudiantil.",
+      "email": "andres.vargas@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "andresfelipe.consejo",
+        "instagram": "@andres_representa",
+        "twitter": "@avargasCUL"
+      },
+      "votosIniciales": 95
+    },
+    {
+      "id": 19,
+      "nombre": "Isabella",
+      "apellido": "Ramírez Cruz",
+      "nombreCompleto": "Isabella Ramírez Cruz",
+      "programa": "consejo_estudiantil",
+      "nombrePrograma": "Consejo Estudiantil",
+      "numeroLista": 3,
+      "foto": "https://ui-avatars.com/api/?name=Isabella+Ramirez&size=400&background=9B59B6&color=fff&bold=true",
+      "facultad": "Contaduría Pública",
+      "semestre": "5to Semestre",
+      "slogan": "Innovación estudiantil para todos",
+      "propuestaResumida": "Tecnología estudiantil, app universitaria y digitalización de trámites.",
+      "propuestaCompleta": "Propuesta digital estudiantil: 1) App móvil CUL para estudiantes (horarios, notas, trámites). 2) Digitalización total de trámites administrativos. 3) Sistema de reservas online para espacios. 4) Plataforma de marketplace estudiantil. 5) Biblioteca digital con recursos académicos 24/7.",
+      "email": "isabella.ramirez@estudiantes.cul.edu.co",
+      "redes": {
+        "facebook": "isabella.consejo",
+        "instagram": "@isa_innova",
+        "twitter": "@iramirezCUL"
+      },
+      "votosIniciales": 103
+    },
+    {
+      "id": 20,
+      "nombre": "Sebastián",
+      "apellido": "Cortés Álvarez",
+      "nombreCompleto": "Sebastián Cortés Álvarez",
+      "programa": "consejo_estudiantil",
+      "nombrePrograma": "Consejo Estudiantil",
+      "numeroLista": 4,
+      "foto": "https://ui-avatars.com/api/?name=Sebastian+Cortes&size=400&background=E67E22&color=fff&bold=true",
+      "facultad": "Ingeniería de Sistemas y Computación",
+      "semestre": "8vo Semestre",
+      "slogan": "Estudiantes unidos, universidad mejor",
+      "propuestaResumida": "Bienestar integral, salud mental y calidad de vida estudiantil.",
+"propuestaCompleta": "Enfoque en bienestar: 1) Centro de salud mental y apoyo psicológico gratuito. 2) Gimnasio y clases deportivas sin costo adicional. 3) Cafetería con opciones saludables y económicas. 4) Espacios de descanso y meditación en campus. 5) Programa de prevención de adicciones y promoción de vida saludable.",
+"email": "sebastian.cortes@estudiantes.cul.edu.co",
+"redes": {
+"facebook": "sebastian.consejo",
+"instagram": "@sebasbienestar",
+"twitter": "@scortesC UL"
+},
+"votosIniciales": 112
+}
+],
+"programas": {
+"representante_estudiantil": {
+"nombre": "Elección Representante Estudiantil 2025",
+"descripcion": "Representante de todos los estudiantes ante el consejo universitario",
+"electoresEstimados": 3500
+},
+"representante_docentes": {
+"nombre": "Elección Representante Docentes 2025",
+"descripcion": "Representación del cuerpo docente de la universidad",
+"electoresEstimados": 250
+},
+"representante_egresados": {
+"nombre": "Elección Representante Egresados 2025",
+"descripcion": "Vínculo entre egresados y la universidad",
+"electoresEstimados": 800
+},
+"decano_ingenieria": {
+"nombre": "Elección Decano de Ingeniería Industrial 2025",
+"descripcion": "Liderazgo de la Facultad de Ingeniería Industrial",
+"electoresEstimados": 450
+},
+"consejo_estudiantil": {
+"nombre": "Elección Consejo Estudiantil 2025",
+"descripcion": "Miembros del consejo estudiantil general",
+"electoresEstimados": 3500
+}
+}
+}
